@@ -7,6 +7,13 @@
         "references": ["https://github.com/Eliah-Lakhin/papa-carlo"]
     },
     {
+        "name": "Голиков Александр",
+        "company": "",
+        "topic": "Просветление пингвина или как я переходил на «Е»",
+        "abstract": "Обзор Е18, и возможно E DR16",
+        "references": ["http://enlightenment.org/", ]
+    },
+    {
         "name": "",
         "company": "2ГИС",
         "topic": "Открытая веб-картография",
